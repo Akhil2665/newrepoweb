@@ -1,0 +1,25 @@
+.lecture-cards-container {
+    font-family: 'roboto';
+    color: black;
+    background-color: aliceblue;
+    border: 2px solid white;
+}
+.profile-cards-list {
+    border: 2px dotted indigo;
+    margin: 20px;
+    padding: 20px;
+    
+} 
+.lecture-profile-card {
+    border: 4px solid brown;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: azure;
+    height: 300px;
+    width: 200px;
+}
+.profile-image {
+    height: 80px;
+    width: 80px;
+}

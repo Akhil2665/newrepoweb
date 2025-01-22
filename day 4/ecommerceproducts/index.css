@@ -1,0 +1,22 @@
+.product-card {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 14px;
+    padding-bottom: 16px;
+    margin-bottom: 10px;
+    background-color: white ;
+    border: 1px solid brown ;
+}
+.product-name {
+    padding-right: 14px;
+}
+.rating-value {
+    color: yellow;
+}
+.rating {
+    color: blue;
+}
+.description {
+    color: red;
+    font-size: 20px;
+}

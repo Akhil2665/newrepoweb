@@ -1,0 +1,67 @@
+body {
+    width: 100%;
+    padding: 80px;
+}
+span {
+    padding-right: 12px;
+    font-size: 20px;
+}
+p {
+    font-size: 24px;
+}
+h3 {
+    font-size: 34px;
+}
+h1 {
+    font-size: 44px;
+}
+h2 {
+    font-size: 36px;
+}
+aside {
+    background-color: aqua;
+    height: 40px;
+    width: 800px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.college-heading {
+    color: red;
+}
+.branch-heading {
+    color: green;
+}
+.lecture-cards-container {
+    font-family: 'roboto';
+    color: black;
+    background-color: aliceblue;
+    border: 2px solid white;
+}
+.profile-cards-list {
+    border-radius: 20px ;
+    margin: 20px;
+    padding: 20px;
+    
+} 
+.lecture-profile-card {
+    border: 4px solid brown;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: azure;
+    height: 300px;
+    width: 200px;
+}
+.profile-image {
+    height: 80px;
+    width: 80px;
+}
+footer {
+    background-color: black;
+    color: white;
+    height: 70px;
+   
+    padding-left: 500px;
+    border-radius: 20px;
+    padding-top: 30px;
+}

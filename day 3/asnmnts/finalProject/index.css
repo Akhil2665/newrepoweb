@@ -1,0 +1,20 @@
+.nav-container {
+    background-color: lightblue;
+    height: 140px;
+    margin-bottom: 20px;
+    padding: 20px ;
+    border-radius: 20px;
+}
+.image-set {
+    height: 64px;
+    width: 30px;
+    border-radius: 100px;
+} 
+footer {
+    background-color: black;
+    color: azure;
+    height: 60px;
+}
+.main-container {
+    background-color: aquamarine;
+}
