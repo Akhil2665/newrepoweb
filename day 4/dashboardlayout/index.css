@@ -1,5 +1,43 @@
 .ecommerce-page {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(219, 52, 52);
     padding-top: 40px;
     padding-bottom: 60px;
+    width: 100%;
+}
+.stat-card {
+    
+    padding: 30px;
+    width: 90%;   
+    margin-bottom: 20px;
+}
+.heading {
+    background-color: transparent;
+    color: white;
+    
+}
+.buy-button {
+    padding: 10px 24px;
+    background-color: blue;
+    color: white;
+} 
+.chart-card {
+    padding: 20px;
+    height: 130px;
+}
+.info-card {
+    padding: 10px;
+    height: 140px;
+}
+.product-name {
+    padding-right: 14px;
+}
+.rating-value {
+    color: yellowgreen;
+}
+.rating {
+    color: blue;
+}
+.description {
+    color: red;
+    font-size: 20px;
 }
