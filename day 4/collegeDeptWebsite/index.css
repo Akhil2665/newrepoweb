@@ -1,0 +1,19 @@
+.logo {
+    height: 80px;
+    width: 80%;
+    margin-left: 80px;
+    
+}
+.course-info {
+    height: 400px;
+    width: 600px;
+}
+
+h3 {
+    margin: 60px;
+}
+.faculty {
+    height: 300px;
+    width: 80%;
+    border-radius: 12px;
+}
